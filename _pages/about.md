@@ -21,9 +21,9 @@ My main research interests include applied cryptography, information security in
 **I am always looking for self-motivated students.** Please email me your CV, transcript, research statement, english test score.
 
 ## News!
--Our paper "EnclaveTree: : Privacy-preserving Data Stream Training and Inference Using TEE" has been accepted by AsiaCCS 2022. Congratulations to Qifan!
--Our paper "Scalable Private Decision Tree Evaluation with Sublinear Communication" has been accepted by AsiaCCS 2022. Congratulations to Jianli!
--Our paper "We Can Make Mistakes: Fault-tolerant Forward Private Verifiable Dynamic Searchable Symmetric Encryption" has been accepted by Euro S&P 2022. Congratulations to Dandan!
+- Our paper "EnclaveTree: : Privacy-preserving Data Stream Training and Inference Using TEE" has been accepted by AsiaCCS 2022. Congratulations to Qifan!
+- Our paper "Scalable Private Decision Tree Evaluation with Sublinear Communication" has been accepted by AsiaCCS 2022. Congratulations to Jianli!
+- Our paper "We Can Make Mistakes: Fault-tolerant Forward Private Verifiable Dynamic Searchable Symmetric Encryption" has been accepted by Euro S&P 2022. Congratulations to Dandan!
 
 ## PhD Students
 1. Dandan Yuan (2019-), The Univerisity of Auckland (co-supervised with [Giovanni Russello](https://www.linkedin.com/in/giovanni-russello-218ab614/?originalSubdomain=nz))
@@ -32,8 +32,8 @@ My main research interests include applied cryptography, information security in
 4. Chin Yong Tan (2021-), Monash University Malaysia (co-supervised with [Prof Raphaël Phan](https://www.monash.edu.my/IT/staff/academic/prof-raphael-phan))
 
 ## Teaching
--2022 S1 | Lecturer | FIT5163-Information & Computer Security
--2021 S1 | Lecturer | FIT5163-Information & Computer Security
+- 2022 S1 | Lecturer | FIT5163-Information & Computer Security
+- 2021 S1 | Lecturer | FIT5163-Information & Computer Security
 
 ## Services
 
