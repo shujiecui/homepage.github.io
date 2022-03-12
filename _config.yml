@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Shujie Cui 崔书杰"
   avatar           : "bio-shujie.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "shujie.cui@monash.edu"
   location         : "Melbourne, Australia"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
