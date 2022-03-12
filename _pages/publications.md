@@ -4,6 +4,10 @@ title: "Publications"
 author_profile: true
 ---
 
+1. EncalveTree
+2. We can make mistakes
+3. 
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -14,6 +18,3 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-1. EncalveTree
-2. We can make mistakes
-3. 
