@@ -26,10 +26,10 @@ My main research interests include applied cryptography, information security in
 - Our paper "We Can Make Mistakes: Fault-tolerant Forward Private Verifiable Dynamic Searchable Symmetric Encryption" has been accepted by Euro S&P 2022. Congratulations to Dandan!
 
 ## PhD Students
-1. Dandan Yuan (2019-), The Univerisity of Auckland (co-supervised with [Giovanni Russello](https://www.linkedin.com/in/giovanni-russello-218ab614/?originalSubdomain=nz))
-2. Qifan Wang (2019-), The Univerisity of Auckland (co-supervised with Giovanni Russello)
-3. Jianli Bai (2019-), The Univerisity of Auckland (co-supervised with Giovanni Russello)
-4. Chin Yong Tan (2021-), Monash University Malaysia (co-supervised with [Prof Raphaël Phan](https://www.monash.edu.my/IT/staff/academic/prof-raphael-phan))
+- Dandan Yuan (2019-), The Univerisity of Auckland (co-supervised with [Giovanni Russello](https://www.linkedin.com/in/giovanni-russello-218ab614/?originalSubdomain=nz))
+- Qifan Wang (2019-), The Univerisity of Auckland (co-supervised with Giovanni Russello)
+- Jianli Bai (2019-), The Univerisity of Auckland (co-supervised with Giovanni Russello)
+- Chin Yong Tan (2021-), Monash University Malaysia (co-supervised with [Prof Raphaël Phan](https://www.monash.edu.my/IT/staff/academic/prof-raphael-phan))
 
 ## Teaching
 - 2022 S1 | Lecturer | FIT5163-Information & Computer Security
@@ -38,19 +38,19 @@ My main research interests include applied cryptography, information security in
 ## Services
 
 ### Organisation
--Privacy track chair: The 20th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2020)
--Privacy track chair: The 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2019)
+- Privacy track chair: The 20th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2020)
+- Privacy track chair: The 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2019)
 
 ### Program Committee
--The 21th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2021)
--The 16th DADS Track of the 36th ACM Symposium on Applied Computing (ACM SAC 2021)
--2021 Australia Computer Security Week (ACSW)
--The 20th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2020)
--The 15th DADS Track of the 36th ACM Symposium on Applied Computing (ACM SAC 2020)
--The 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2019)
+- The 21th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2021)
+- The 16th DADS Track of the 36th ACM Symposium on Applied Computing (ACM SAC 2021)
+- 2021 Australia Computer Security Week (ACSW)
+- The 20th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2020)
+- The 15th DADS Track of the 36th ACM Symposium on Applied Computing (ACM SAC 2020)
+- The 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2019)
 
 ### Reviewer
--IEEE Transactions on Dependable and Secure Computing (TDSC)
--IEEE Transactions on Cloud Computing (TCC)
--Computers & Security
+- IEEE Transactions on Dependable and Secure Computing (TDSC)
+- IEEE Transactions on Cloud Computing (TCC)
+- Computers & Security
 
