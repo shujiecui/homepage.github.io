@@ -7,9 +7,6 @@ redirect_from:
   - "/wordpress/"
   - "/wordpress/index.html"
 ---
-@settings {
-  font-size: 10;
-}
 
 {% include base_path %}
 
