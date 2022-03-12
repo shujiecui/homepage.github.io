@@ -17,6 +17,11 @@ My main research interests include applied cryptography, information security in
 
 I am always looking for self-motivated students. Please email me your CV, transcript, research statement, english test score.
 
+## News!
+1. Our paper "EnclaveTree: : Privacy-preserving Data Stream Training and Inference Using TEE" has been accepted by AsiaCCS 2022. Congratulations to Qifan!
+2. Our paper "Scalable Private Decision Tree Evaluation with Sublinear Communication" has been accepted by AsiaCCS 2022. Congratulations to Jianli!
+3. Our paper "We Can Make Mistakes: Fault-tolerant Forward Private Verifiable Dynamic Searchable Symmetric Encryption" has been accepted by Euro S&P 2022. Congratulations to Dandan!
+
 ## PhD Students
 1. Dandan Yuan (2019-), The Univerisity of Auckland (co-supervised with [Giovanni Russello](https://www.linkedin.com/in/giovanni-russello-218ab614/?originalSubdomain=nz))
 2. Qifan Wang (2019-), The Univerisity of Auckland (co-supervised with Giovanni Russello)
