@@ -15,6 +15,7 @@ I’m a Lecturer at Monash University in the Faculty of Information Technology. 
 ## My research
 My main research interests include applied cryptography, information security in cloud computing and distributed systems, trusted execution environments, side-channel attacks, and privacy-preserving machine learning.
 
+I am always looking for self-motivated students. Please email me your CV, transcript, research statement, english test score.
 
 ## PhD Students
 1. Dandan Yuan (2019-), The Univerisity of Auckland (co-supervised with [Giovanni Russello](https://www.linkedin.com/in/giovanni-russello-218ab614/?originalSubdomain=nz))
