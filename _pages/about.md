@@ -32,6 +32,10 @@ My main research interests include applied cryptography, information security in
 - 2022 S1, Lecturer, FIT5163-Information & Computer Security
 - 2021 S1, Lecturer, FIT5163-Information & Computer Security
 
+element {
+  font-size: 75;
+}
+
 ## Services
 
 ### Organisation
