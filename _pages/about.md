@@ -29,14 +29,14 @@ My main research interests include applied cryptography, information security in
 4. Chin Yong Tan (2021-), Monash University Malaysia (co-supervised with [Prof Raphaël Phan](https://www.monash.edu.my/IT/staff/academic/prof-raphael-phan))
 
 ## Teaching
-2022 S1 | Lecturer | FIT5163-Information & Computer Security
-2021 S1 | Lecturer | FIT5163-Information & Computer Security
+1. 2022 S1 | Lecturer | FIT5163-Information & Computer Security
+2. 2021 S1 | Lecturer | FIT5163-Information & Computer Security
 
 ## Services
 
 ### Organisation
 1. Privacy track chair: The 20th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2020)
-2. Privacy track chari: The 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2019)
+2. Privacy track chair: The 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2019)
 
 ### Program Committee
 1. The 21th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2021)
