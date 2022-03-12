@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I’m a Lecturer at Monash University in the Faculty of Information Technology. I obtained my PhD degree from the University of Auckland in 2019. Before joining Monash University, I was a Post-Doc researcher in the Large-Scale Data & Systems (LSDS) group in the Department of Computing at Imperial College London, UK. 
+I’m a Lecturer at Monash University in the [Faculty of Information Technology](https://www.monash.edu/it). I obtained my PhD degree from the University of Auckland in 2019. Before joining Monash University, I was a Post-Doc researcher in the Large-Scale Data & Systems (LSDS) group in the Department of Computing at Imperial College London, UK. 
 
 ## My research
 My main research interests include applied cryptography, information security in cloud computing and distributed systems, trusted execution environments, side-channel attacks, and privacy-preserving machine learning.
