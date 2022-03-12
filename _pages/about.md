@@ -32,8 +32,8 @@ My main research interests include applied cryptography, information security in
 - Chin Yong Tan (2021-), Monash University Malaysia (co-supervised with [Prof Raphaël Phan](https://www.monash.edu.my/IT/staff/academic/prof-raphael-phan))
 
 ## Teaching
-- 2022 S1 | Lecturer | FIT5163-Information & Computer Security
-- 2021 S1 | Lecturer | FIT5163-Information & Computer Security
+- 2022 S1, Lecturer, FIT5163-Information & Computer Security
+- 2021 S1, Lecturer, FIT5163-Information & Computer Security
 
 ## Services
 
