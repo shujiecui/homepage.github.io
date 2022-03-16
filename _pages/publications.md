@@ -21,58 +21,58 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
 
 - <sub> [Euro S&P 2022] **We Can Make Mistakes: Fault-tolerant Forward Private Verifiable Dynamic Searchable Symmetric Encryption** <br/>
    Dandan Yuan, Shujie Cui, and Giovanni Russello <br/>
-   The 7th IEEE European Symposium on Security and Privacy 
+   The 7th IEEE European Symposium on Security and Privacy <br/>
    [pdf](http://shujiecui.github.io/files/euroS&P.pdf)
    
 - <sub> [TOPS] **Privacy-preserving Dynamic Symmetric Searchable Encryption with Controllable Leakage** <br/>
    Shujie Cui, Xiangfu Song, Muhammad Rizwan Asghar, Steven D. Galbraith, and Giovanni Russello<br/>
-   ACM Transactions on Privacy and Security  
+   ACM Transactions on Privacy and Security  <br/>
    [pdf](http://shujiecui.github.io/files/TOPS.pdf)
  
  - <sub> [TDSC] **Collusion Defender: Preserving Subscribers’ Privacy in Publish and Subscribe Systems** <br/>
    Shujie Cui, Sana Belguith, Pramodya De Alwis, Muhammad Rizwan Asghar, and Giovanni Russello <br/>
-   IEEE Transactions on Dependable and Secure Computing  
+   IEEE Transactions on Dependable and Secure Computing  <br/>
    [pdf](http://shujiecui.github.io/files/collusionDefender.pdf)
    
  - <sub> [TrustCom/BigDataSE 2018] **Malicious entities are in vain: Preserving privacy in publish and subscribe systems** <br/>
    Shujie Cui, Sana Belguith, Pramodya De Alwis, Muhammad Rizwan Asghar, and Giovanni Russello <br/>
-   17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications/12th IEEE International Conference On Big Data Science And Engineering  
+   17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications/12th IEEE International Conference On Big Data Science And Engineering  <br/>
    [pdf](http://shujiecui.github.io/files/Trustcom2018.pdf)  
    
  - <sub> [TDSC] **Multi- CDN: Towards privacy in content delivery networks** <br/>
    Shujie Cui, Muhammad Rizwan Asghar, and Giovanni Russello <br/>
-   IEEE Transactions on Depend- able and Secure Computing  
+   IEEE Transactions on Depend- able and Secure Computing  <br/>
    [pdf](http://shujiecui.github.io/files/multi-CDN.pdf)
    
  - <sub> [ICCCN 2018] **Preserving access pattern privacy in SGX-assisted encrypted search** <br/>
    Shujie Cui, Sana Belguith, Pramodya De Alwis, Muhammad Rizwan Asghar, and Giovanni Russello <br/>
-   The 27th International Conference on Computer Communication and Networks 
+   The 27th International Conference on Computer Communication and Networks <br/>
    [pdf](http://shujiecui.github.io/files/SGX-assisted.pdf) 
    
   - <sub> [ACM SAC 2018] **Secure Publish and Subscribe Systems with Efficient Revocation** <br/>
    Sana Belguith, Shujie Cui, Muhammad Rizwan Asghar, and Giovanni Russello <br/>
-    the 33rd ACM/SIGAPP Symposium On Applied Computing
+    the 33rd ACM/SIGAPP Symposium On Applied Computing <br/>
    [pdf](http://shujiecui.github.io/files/revocation.pdf)
    
  - <sub> [LCN 2017] **Privacy-Preserving Content Delivery Networks** <br/>
    Shujie Cui, Muhammad Rizwan Asghar, and Giovanni Russello <br/>
-   IEEE 42nd Conference on Local Computer Networks   
+   IEEE 42nd Conference on Local Computer Networks <br/>  
    [pdf](http://shujiecui.github.io/files/LCN.pdf)
 
  - <sub> [ACISP 2017] **Secure and practical searchable encryption: A position paper** <br/>
    Shujie Cui, Muhammad Rizwan Asghar, Steven D. Galbraith, and Giovanni Russello <br/>
-   Australasian Conference on Information Security and Privacy  
+   Australasian Conference on Information Security and Privacy  <br/>
    [pdf](http://shujiecui.github.io/files/acisp.pdf)
    
   - <sub> [CLOUD 2017] **P-McDb: Privacy-Preserving Search Using Multi-Cloud Encrypted Databases** <br/>
    Shujie Cui, Muhammad Rizwan Asghar, Steven D. Galbraith, and Giovanni Russello <br/>
-   IEEE 10th International Conference on Cloud Computing  
+   IEEE 10th International Conference on Cloud Computing  <br/>
    [pdf](http://shujiecui.github.io/files/Pmcdb.pdf)  
    
    
   - <sub> [FPS 2017] **ObliviousDB: Practical and Efficient Searchable Encryption with Controllable Leakage** <br/>
    Shujie Cui, Muhammad Rizwan Asghar, Steven D. Galbraith, and Giovanni Russello <br/>
-   The 10th International Symposium on Foundations & Practice of Security 
+   The 10th International Symposium on Foundations & Practice of Security <br/>
    [pdf](http://shujiecui.github.io/files/ObliviousDB.pdf)  
    
   - <sub> [ISPEC 2014] **High-speed elliptic curve cryptography on the NVIDIA GT200 graphics processing unit** <br/>
