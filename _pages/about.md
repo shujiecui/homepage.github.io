@@ -32,14 +32,11 @@ My main research interests include applied cryptography, information security in
 - 2022 S1, Lecturer, FIT5163-Information & Computer Security
 - 2021 S1, Lecturer, FIT5163-Information & Computer Security
 
-element {
-  font-size: 75;
-}
 
 ## Services
 
 ### Organisation
-- Privacy track chair: The 20th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2020)
+- $small{Privacy track chair: The 20th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2020)}
 - Privacy track chair: The 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2019)
 
 ### Program Committee
