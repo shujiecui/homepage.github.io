@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-The full list can be found from my [google scholar]{https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en}
+The full list can be found from my [google scholar](https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en)
 
 - <sub>[AsiaCCS 2022] **EnclaveTree: Privacy-preserving Data Stream Training and Inference Using TEE** <br/>
    Qifan Wang, Shujie Cui, Lei Zhou, Ocean Wu, Yonghua Zhu, Giovanni Russello <br/>
