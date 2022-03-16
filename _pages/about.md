@@ -25,12 +25,13 @@ redirect_from:
 - Our paper "We Can Make Mistakes: Fault-tolerant Forward Private Verifiable Dynamic Searchable Symmetric Encryption" has been accepted by Euro S&P 2022. Congratulations to Dandan!</sub>  
 
 ### PhD Students
-
+<sub> 
 - Dandan Yuan (2019-), The Univerisity of Auckland (co-supervised with [Giovanni Russello](https://www.linkedin.com/in/giovanni-russello-218ab614/?originalSubdomain=nz))
 - Qifan Wang (2019-), The Univerisity of Auckland (co-supervised with Giovanni Russello)
 - Jianli Bai (2019-), The Univerisity of Auckland (co-supervised with Giovanni Russello)
 - Chin Yong Tan (2021-), Monash University Malaysia (co-supervised with [Prof Raphaël Phan](https://www.monash.edu.my/IT/staff/academic/prof-raphael-phan))
-
+</sub> 
+  
 ### Teaching
 - 2022 S1, Lecturer, FIT5163-Information & Computer Security
 - 2021 S1, Lecturer, FIT5163-Information & Computer Security
@@ -53,8 +54,6 @@ redirect_from:
 - The 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2019)
 
 ### Reviewer
-  <sub> 
-- IEEE Transactions on Dependable and Secure Computing (TDSC)
-- IEEE Transactions on Cloud Computing (TCC)
-- Computers & Security
-</sub>
+- <sub> IEEE Transactions on Dependable and Secure Computing (TDSC)</sub> 
+- <sub> IEEE Transactions on Cloud Computing (TCC)</sub> 
+- <sub> Computers & Security</sub>
