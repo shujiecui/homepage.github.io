@@ -11,13 +11,12 @@ redirect_from:
 {% include base_path %}
 
  
- <font size="3"> 
- I’m a Lecturer at Monash University in the [Faculty of Information Technology](https://www.monash.edu/it). I obtained my PhD degree from [the University of Auckland](https://www.auckland.ac.nz/en.html) in 2019. Before joining Monash University, I was a Post-Doc researcher in the [Large-Scale Data & Systems (LSDS) group](https://lsds.doc.ic.ac.uk/) in the Department of Computing at Imperial College London, UK. </font> 
+<sub> I’m a Lecturer at Monash University in the [Faculty of Information Technology](https://www.monash.edu/it). I obtained my PhD degree from [the University of Auckland](https://www.auckland.ac.nz/en.html) in 2019. Before joining Monash University, I was a Post-Doc researcher in the [Large-Scale Data & Systems (LSDS) group](https://lsds.doc.ic.ac.uk/) in the Department of Computing at Imperial College London, UK.  
 
 ### My research
-<font size="3"> My main research interests include applied cryptography, information security in cloud computing and distributed systems, trusted execution environments, side-channel attacks, and privacy-preserving machine learning.
+<sub> My main research interests include applied cryptography, information security in cloud computing and distributed systems, trusted execution environments, side-channel attacks, and privacy-preserving machine learning.
 
-**I am always looking for self-motivated students.** Please email me your CV, transcript, research statement, english test score.</font> 
+**I am always looking for self-motivated students.** Please email me your CV, transcript, research statement, english test score.</sub> 
 
 ### News!
 <font size="3"> 
@@ -26,6 +25,7 @@ redirect_from:
 - Our paper "We Can Make Mistakes: Fault-tolerant Forward Private Verifiable Dynamic Searchable Symmetric Encryption" has been accepted by Euro S&P 2022. Congratulations to Dandan!</font> 
 
 ### PhD Students
+
 - Dandan Yuan (2019-), The Univerisity of Auckland (co-supervised with [Giovanni Russello](https://www.linkedin.com/in/giovanni-russello-218ab614/?originalSubdomain=nz))
 - Qifan Wang (2019-), The Univerisity of Auckland (co-supervised with Giovanni Russello)
 - Jianli Bai (2019-), The Univerisity of Auckland (co-supervised with Giovanni Russello)
@@ -56,4 +56,4 @@ redirect_from:
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Cloud Computing (TCC)
 - Computers & Security
-
+</sub>
