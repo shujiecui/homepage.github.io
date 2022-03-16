@@ -10,29 +10,20 @@ redirect_from:
 
 {% include base_path %}
 
- <font size="1"> This is my text number1</font> 
-
- <font size="2"> This is my text number 2 </font>
  
- <font size="3"> This is my text number 3</font> 
- 
- <font size="4"> This is my text number 4</font> 
- 
- <font size="5"> This is my text number 5</font> 
- 
- <font size="6"> This is my text number 6</font>
- 
-<sub>I’m a Lecturer at Monash University in the [Faculty of Information Technology](https://www.monash.edu/it). I obtained my PhD degree from [the University of Auckland](https://www.auckland.ac.nz/en.html) in 2019. Before joining Monash University, I was a Post-Doc researcher in the [Large-Scale Data & Systems (LSDS) group](https://lsds.doc.ic.ac.uk/) in the Department of Computing at Imperial College London, UK. 
+ <font size="3"> 
+ I’m a Lecturer at Monash University in the [Faculty of Information Technology](https://www.monash.edu/it). I obtained my PhD degree from [the University of Auckland](https://www.auckland.ac.nz/en.html) in 2019. Before joining Monash University, I was a Post-Doc researcher in the [Large-Scale Data & Systems (LSDS) group](https://lsds.doc.ic.ac.uk/) in the Department of Computing at Imperial College London, UK. </font> 
 
 ### My research
-<sub>My main research interests include applied cryptography, information security in cloud computing and distributed systems, trusted execution environments, side-channel attacks, and privacy-preserving machine learning.
+<font size="3"> My main research interests include applied cryptography, information security in cloud computing and distributed systems, trusted execution environments, side-channel attacks, and privacy-preserving machine learning.
 
-**I am always looking for self-motivated students.** Please email me your CV, transcript, research statement, english test score.</sub>
+**I am always looking for self-motivated students.** Please email me your CV, transcript, research statement, english test score.</font> 
 
 ### News!
-- <sub>Our paper "EnclaveTree: : Privacy-preserving Data Stream Training and Inference Using TEE" has been accepted by AsiaCCS 2022. Congratulations to Qifan!</sub>
-- <sub>Our paper "Scalable Private Decision Tree Evaluation with Sublinear Communication" has been accepted by AsiaCCS 2022. Congratulations to Jianli!</sub>
-- <sub>Our paper "We Can Make Mistakes: Fault-tolerant Forward Private Verifiable Dynamic Searchable Symmetric Encryption" has been accepted by Euro S&P 2022. Congratulations to Dandan!</sub>
+<font size="3"> 
+- Our paper "EnclaveTree: : Privacy-preserving Data Stream Training and Inference Using TEE" has been accepted by AsiaCCS 2022. Congratulations to Qifan!
+- Our paper "Scalable Private Decision Tree Evaluation with Sublinear Communication" has been accepted by AsiaCCS 2022. Congratulations to Jianli!
+- Our paper "We Can Make Mistakes: Fault-tolerant Forward Private Verifiable Dynamic Searchable Symmetric Encryption" has been accepted by Euro S&P 2022. Congratulations to Dandan!</font> 
 
 ### PhD Students
 - Dandan Yuan (2019-), The Univerisity of Auckland (co-supervised with [Giovanni Russello](https://www.linkedin.com/in/giovanni-russello-218ab614/?originalSubdomain=nz))
@@ -48,8 +39,10 @@ redirect_from:
 ## Services
 
 ### Organisation
-- $small{Privacy track chair: The 20th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2020)}
+  <font size="3"> 
+- Privacy track chair: The 20th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2020)}
 - Privacy track chair: The 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2019)
+</font>
 
 ### Program Committee
 - The 21th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2021)
