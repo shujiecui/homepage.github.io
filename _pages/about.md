@@ -16,13 +16,13 @@ redirect_from:
 ### My research
 <sub> My main research interests include applied cryptography, information security in cloud computing and distributed systems, trusted execution environments, side-channel attacks, and privacy-preserving machine learning.
 
-**I am always looking for self-motivated students.** Please email me your CV, transcript, research statement, english test score.</sub> 
+<sub> **I am always looking for self-motivated students.** Please email me your CV, transcript, research statement, english test score.</sub> 
 
 ### News!
-<font size="3"> 
+<sub> 
 - Our paper "EnclaveTree: : Privacy-preserving Data Stream Training and Inference Using TEE" has been accepted by AsiaCCS 2022. Congratulations to Qifan!
 - Our paper "Scalable Private Decision Tree Evaluation with Sublinear Communication" has been accepted by AsiaCCS 2022. Congratulations to Jianli!
-- Our paper "We Can Make Mistakes: Fault-tolerant Forward Private Verifiable Dynamic Searchable Symmetric Encryption" has been accepted by Euro S&P 2022. Congratulations to Dandan!</font> 
+- Our paper "We Can Make Mistakes: Fault-tolerant Forward Private Verifiable Dynamic Searchable Symmetric Encryption" has been accepted by Euro S&P 2022. Congratulations to Dandan!</sub>  
 
 ### PhD Students
 
@@ -53,6 +53,7 @@ redirect_from:
 - The 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2019)
 
 ### Reviewer
+  <sub> 
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Cloud Computing (TCC)
 - Computers & Security
