@@ -17,8 +17,7 @@ redirect_from:
 <sub>My main research interests include applied cryptography, information security in cloud computing and distributed systems, trusted execution environments, side-channel attacks, and privacy-preserving machine learning.
 
 
-**I am always looking for self-motivated students.**
-  <font color="red">This is some text!</font>
+**<font color="red">I am always looking for self-motivated students.</font>**
 <sub> Please email me your CV, transcript, research statement, english test score.</sub>
 
 ### News!
