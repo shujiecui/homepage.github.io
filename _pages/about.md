@@ -20,7 +20,7 @@ redirect_from:
 **<font color="red">I am always looking for self-motivated students.</font>**
 <sub> Please email me your CV, transcript, research statement, english test score.</sub>
 
-### News!
+### <font color="green"> News! </font>
 - <sub>Our paper "EnclaveTree: : Privacy-preserving Data Stream Training and Inference Using TEE" has been accepted by AsiaCCS 2022. Congratulations to Qifan!
 - <sub>Our paper "Scalable Private Decision Tree Evaluation with Sublinear Communication" has been accepted by AsiaCCS 2022. Congratulations to Jianli!
 - <sub>Our paper "We Can Make Mistakes: Fault-tolerant Forward Private Verifiable Dynamic Searchable Symmetric Encryption" has been accepted by Euro S&P 2022. Congratulations to Dandan!</sub>  
