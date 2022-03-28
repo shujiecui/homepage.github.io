@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in software engineering, Shangdong University, 2011
-* M.S. in computer technique, Shandong University, 2014
-* M.S. in computer science, Luxemburg University, 2014 (exchange)
-* Ph.D in computer science, The University of Auckland, 2019
+* B.S. in software engineering, Shangdong University, 2007-2011
+* M.S. in computer technique, Shandong University, 2011-2014
+* M.S. in computer science, Luxemburg University, 2012-2013(exchange)
+* Ph.D in computer science, The University of Auckland, 2015-2018
 
 Work experience
 ======
@@ -26,3 +26,4 @@ Work experience
   * Imperial College London
   * Supervisor: Prof. Peter Pietzuch
   
+* 2021-now: Lecturer, Monash University
