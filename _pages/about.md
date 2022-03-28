@@ -16,8 +16,8 @@ redirect_from:
 ### My research
 <sub>My main research interests include applied cryptography, information security in cloud computing and distributed systems, trusted execution environments, side-channel attacks, and privacy-preserving machine learning.
 
-<sub>**```diff - I am always looking for self-motivated students.```** 
-  Please email me your CV, transcript, research statement, english test score.</sub> 
+**```diff - I am always looking for self-motivated students.```** 
+  Please email me your CV, transcript, research statement, english test score.
 
 ### News!
 - <sub>Our paper "EnclaveTree: : Privacy-preserving Data Stream Training and Inference Using TEE" has been accepted by AsiaCCS 2022. Congratulations to Qifan!
