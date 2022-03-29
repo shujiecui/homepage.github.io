@@ -11,14 +11,12 @@ redirect_from:
 
 
 ### Education
-======
 * <sub> B.S. in software engineering, Shangdong University, 2007-2011 </sub>
 * <sub> M.S. in computer technique, Shandong University, 2011-2014 </sub>
 * <sub> M.S. in computer science, Luxemburg University, 2012-2013 (exchange) </sub>
 * <sub> Ph.D in computer science, The University of Auckland, 2015-2018 </sub>
 
 ### Work experience
-======
 * <sub> Summer 2014: Research Assistant </sub>
   * <sub> City of University of Hong Kong </sub>
   * <sub> Supervisor: Associate Prof. Duncan S. Wong </sub>
