@@ -37,7 +37,8 @@ redirect_from:
 </sub> 
   
 ### Teaching
-- <sub>2023 S1&S2, Lecturer, FIT5163-Information & Computer Security
+- <sub>2024 S1, Lecturer & CE, FIT5163-Information & Computer Security
+- <sub>2023 S1&S2, Lecturer & CE, FIT5163-Information & Computer Security
 - <sub>2022 S1, Lecturer, FIT5163-Information & Computer Security
 - <sub>2021 S1, Lecturer, FIT5163-Information & Computer Security
 
