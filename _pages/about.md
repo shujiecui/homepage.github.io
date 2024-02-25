@@ -28,12 +28,12 @@ redirect_from:
  
 
 ### PhD Students
+- <sub>Wenhao Wang (2024-), Monash University
 - <sub>Dongkun Hou (2023-), Monash University
 - <sub>Min Tang (2022-), Monash University Malaysia (co-supervised with [Dr. Zhe Jin](https://www.monash.edu.my/it/staff/academic/dr-jin-zhe) and [Dr. Liang Shiuan-Ni](https://www.monash.edu.my/engineering/about-us/all-staff/dr.-liang-shiuan-ni))
-- <sub>Chin Yong Tan (2021-), Monash University Malaysia (co-supervised with [Prof Raphaël Phan](https://www.monash.edu.my/IT/staff/academic/prof-raphael-phan))
-- <sub>Dandan Yuan (2019-), The Univerisity of Auckland (co-supervised with [Prof Giovanni Russello](https://www.linkedin.com/in/giovanni-russello-218ab614/?originalSubdomain=nz))
-- <sub>Qifan Wang (2019-), The Univerisity of Auckland (co-supervised with Giovanni Russello)
-- <sub>Jianli Bai (2019-), The Univerisity of Auckland (co-supervised with Giovanni Russello)
+- <sub>Dandan Yuan (2019-2023), The Univerisity of Auckland (co-supervised with [Prof Giovanni Russello](https://www.linkedin.com/in/giovanni-russello-218ab614/?originalSubdomain=nz))
+- <sub>Qifan Wang (2019-2023), The Univerisity of Auckland (co-supervised with Giovanni Russello)
+- <sub>Jianli Bai (2019-2023), The Univerisity of Auckland (co-supervised with Giovanni Russello)
 </sub> 
   
 ### Teaching
