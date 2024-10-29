@@ -21,6 +21,7 @@ redirect_from:
 <sub> Please email me your CV, transcript, research statement, English test score.</sub>
 
 ### News!
+
 - <sub>Our paper "Mostree: Malicious Secure Private Decision Tree Evaluation with Sublinear Communication" has been accepted by ACSAC 2023. Congratulations to Jianli again!
 - <sub>Our paper "Result-pattern-hiding Conjunctive Searchable Symmetric Encryption with Forward and Backward Privacy" has been accepted by PoPets/PETs 2023. Congratulations to Dandan!
 - <sub>Our paper "CryptoMask: Privacy-preserving Face Recognition" has been accepted by ICICS 2023 (accept rate 18.09%). Congratulations to Jianli!
@@ -28,8 +29,10 @@ redirect_from:
  
 
 ### PhD Students
+- <sub>Xuan Chen (2024-), Monash University
 - <sub>Wenhao Wang (2024-), Monash University
 - <sub>Chenchen Tan (2023-), Monash University (Suzhou campus)
+- <sub>Xinghao Li (2023-), Monash University (Suzhou campus)
 - <sub>Dongkun Hou (2023-), Monash University
 - <sub>Min Tang (2022-), Monash University Malaysia (co-supervised with [Dr. Zhe Jin](https://www.monash.edu.my/it/staff/academic/dr-jin-zhe) and [Dr. Liang Shiuan-Ni](https://www.monash.edu.my/engineering/about-us/all-staff/dr.-liang-shiuan-ni))
 - <sub>Dandan Yuan (2019-2023), The Univerisity of Auckland (co-supervised with [Prof Giovanni Russello](https://www.linkedin.com/in/giovanni-russello-218ab614/?originalSubdomain=nz))
