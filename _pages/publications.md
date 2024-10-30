@@ -9,6 +9,56 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en) or [DBLP](https://dblp.org/pid/144/6258.html)
 
+- <sub>[IPM 2024] **Sequential Recommendation by Reprogramming Pretrained Transformer** <br/>
+   Min Tang, Lixin Zou, Shujie Cui, Zhe Jin, Shiuan-ni Liang, Chengliang Li<br/>
+   Information Processing and Management<br/>
+   [pdf](https://dl.acm.org/doi/abs/10.1007/978-3-031-70381-2_18)
+  
+- <sub>[ECMLKD 2024] **Unbiased Recommendation Through Invariant Representation Learning** <br/>
+   Min Tang, Lixin Zou, Shujie Cui, Shiuan-ni Liang, Zhe Jin <br/>
+   Joint European Conference on Machine Learning and Knowledge Discovery in Databases 2024 <br/>
+   [pdf](https://dl.acm.org/doi/abs/10.1007/978-3-031-70381-2_18)
+
+- <sub>[IEEE Blockchain 2024] **Peer-to-Peer Energy Trading with Privacy and Fair Exchange** <br/>
+    Dongkun Hou, Jie Zhang, Shujie Cui, Joseph K Liu<br/>
+    2024 IEEE International Conference on Blockchain (Blockchain)<br/>
+   [pdf](https://ieeexplore.ieee.org/abstract/document/10664402)
+
+- <sub>[PoPETS/PETS 2024] **Searchable Encryption for Conjunctive Queries with Extended Forward and Backward Privacy** <br/>
+    Cong Zuo, Shangqi Lai, Xingliang Yuan, Joseph K. Liu, Jun Shao, and Huaxiong Wang, Shujie Cui<br/>
+    Proceedings on Privacy Enhancing Technologies<br/>
+   [pdf](https://eprint.iacr.org/2021/1585)
+
+- <sub>[IEEE Blockchain 2023] **Fault-tolerant Verifiable Encrypted Search on Blockchain** <br/>
+    Xuan Chen, Shujie Cui<br/>
+    2023 IEEE International Conference on Blockchain (Blockchain)<br/>
+   [pdf](https://ieeexplore.ieee.org/abstract/document/10411490)
+
+- <sub>[Journal 2023] **HT2ML: An efficient hybrid framework for privacy-preserving Machine Learning using HE and TEE** <br/>
+    Qifan Wang, Lei Zhou, Jianli Bai, Yun Sing Koh, Shujie Cui, Giovanni Russello <br/>
+    Computers & Security<br/>
+   [pdf](https://www.sciencedirect.com/science/article/pii/S0167404823004194)
+
+- <sub>[ICICS 2023] **TimeClave: Oblivious In-Enclave Time Series Processing System** <br/>
+    Kassem Bagher, Shujie Cui, Xingliang Yuan, Carsten Rudolph, Xun Yi<br/>
+    International Conference on Information and Communications Security<br/>
+   [pdf](https://arxiv.org/pdf/2306.16652)
+
+- <sub>[ICICS 2023] **CryptoMask: Privacy-preserving Face Recognition** <br/>
+    Jianli Bai, Xiaowu Zhang, Xiangfu Song, Hang Shao, Qifan Wang, Shujie Cui, Giovanni Russello<br/>
+    International Conference on Information and Communications Security<br/>
+   [pdf](https://arxiv.org/pdf/2307.12010)
+
+- <sub>[PoPETS/PETS 2023] **Result-pattern-hiding conjunctive searchable symmetric encryption with forward and backward privacy** <br/>
+    Dandan Yuan, Cong Zuo, Shujie Cui, Giovanni Russello<br/>
+    Proceedings on Privacy Enhancing Technologies<br/>
+   [pdf](https://petsymposium.org/2023/files/papers/issue2/popets-2023-0040.pdf)
+
+- <sub>[ACSAC 2023] **Mostree: Malicious Secure Private Decision Tree Evaluation with Sublinear Communication** <br/>
+    Jianli Bai, Xiangfu Song, Xiaowu Zhang, Qifan Wang, Shujie Cui, Ee-Chien Chang, Giovanni Russello<br/>
+    Proceedings of the 39th Annual Computer Security Applications Conference <br/>
+   [pdf]()
+
 - <sub>[AsiaCCS 2022] **EnclaveTree: Privacy-preserving Data Stream Training and Inference Using TEE** <br/>
    Qifan Wang, Shujie Cui, Lei Zhou, Ocean Wu, Yonghua Zhu, Giovanni Russello <br/>
    The 17th ACM ASIA Conference on Computer and Communications Security (Acceptance rate 18.5%) <br/>
