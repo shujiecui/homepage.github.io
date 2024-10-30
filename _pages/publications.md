@@ -14,7 +14,7 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
    Information Processing and Management<br/>
    [pdf](https://dl.acm.org/doi/abs/10.1007/978-3-031-70381-2_18)
   
-- <sub>[ECMLKD 2024] **Unbiased Recommendation Through Invariant Representation Learning** <br/>
+- <sub>[ECMLKDD 2024] **Unbiased Recommendation Through Invariant Representation Learning** <br/>
    Min Tang, Lixin Zou, Shujie Cui, Shiuan-ni Liang, Zhe Jin <br/>
    Joint European Conference on Machine Learning and Knowledge Discovery in Databases 2024 <br/>
    [pdf](https://dl.acm.org/doi/abs/10.1007/978-3-031-70381-2_18)
