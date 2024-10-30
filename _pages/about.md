@@ -22,11 +22,8 @@ redirect_from:
 
 ### News!
 
-- <sub>Our paper "Mostree: Malicious Secure Private Decision Tree Evaluation with Sublinear Communication" has been accepted by ACSAC 2023. Congratulations to Jianli again!
-- <sub>Our paper "Result-pattern-hiding Conjunctive Searchable Symmetric Encryption with Forward and Backward Privacy" has been accepted by PoPets/PETs 2023. Congratulations to Dandan!
-- <sub>Our paper "CryptoMask: Privacy-preserving Face Recognition" has been accepted by ICICS 2023 (accept rate 18.09%). Congratulations to Jianli!
-- <sub>Our paper "TimeClave: Oblivious In-enclave Time Series Processing System" has been accepted by ICICS 2023!
- 
+- <sub>Our paper "Sequential Recommendation by Reprogramming Pretrained Transformer" has been accepted by IPM. Congratulations to Min Tang!
+- <sub>Our paper "Searchable Encryption for Conjunctive Queries with Extended Forward and Backward Privacy" has been accepted by PoPETs/PETs24! 
 
 ### PhD Students
 - <sub>Xuan Chen (2024-), Monash University
