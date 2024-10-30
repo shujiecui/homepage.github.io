@@ -9,7 +9,7 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en) or [DBLP](https://dblp.org/pid/144/6258.html)
 
-- <sub>[IPM 2024] **Sequential Recommendation by Reprogramming Pretrained Transformer** <br/>
+- <sub>[IPM] **Sequential Recommendation by Reprogramming Pretrained Transformer** <br/>
    Min Tang, Lixin Zou, Shujie Cui, Zhe Jin, Shiuan-ni Liang, Chengliang Li<br/>
    Information Processing and Management<br/>
    [pdf](https://dl.acm.org/doi/abs/10.1007/978-3-031-70381-2_18)
@@ -34,7 +34,7 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
     2023 IEEE International Conference on Blockchain (Blockchain)<br/>
    [pdf](https://ieeexplore.ieee.org/abstract/document/10411490)
 
-- <sub>[Journal 2023] **HT2ML: An efficient hybrid framework for privacy-preserving Machine Learning using HE and TEE** <br/>
+- <sub>[Computers & Security] **HT2ML: An efficient hybrid framework for privacy-preserving Machine Learning using HE and TEE** <br/>
     Qifan Wang, Lei Zhou, Jianli Bai, Yun Sing Koh, Shujie Cui, Giovanni Russello <br/>
     Computers & Security<br/>
    [pdf](https://www.sciencedirect.com/science/article/pii/S0167404823004194)
