@@ -9,12 +9,17 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en) or [DBLP](https://dblp.org/pid/144/6258.html)
 
+- <sub>[TrustCom/BigDataSE 2024] **GTree: GPU-Friendly Privacy-preserving Decision Tree Training and Inference** <br/>
+   Qifan Wang, Shujie Cui, Lei Zhou, Ye Dong, Jianli Bai,  Yun Sing Koh, Giovanni Russello<br/>
+   The 23rd IEEE International Conference On Trust, Security And Privacy In Computing And Communications/12th IEEE International Conference On Big Data Science And Engineering <br/>
+   [pdf](https://arxiv.org/pdf/2305.00645)
+  
 - <sub>[IPM] **Sequential Recommendation by Reprogramming Pretrained Transformer** <br/>
    Min Tang, Lixin Zou, Shujie Cui, Zhe Jin, Shiuan-ni Liang, Chengliang Li<br/>
    Information Processing and Management<br/>
    [pdf](https://dl.acm.org/doi/abs/10.1007/978-3-031-70381-2_18)
   
-- <sub>[ECMLKDD 2024] **Unbiased Recommendation Through Invariant Representation Learning** <br/>
+- <sub>[ECML/KDD 2024] **Unbiased Recommendation Through Invariant Representation Learning** <br/>
    Min Tang, Lixin Zou, Shujie Cui, Shiuan-ni Liang, Zhe Jin <br/>
    Joint European Conference on Machine Learning and Knowledge Discovery in Databases 2024 <br/>
    [pdf](https://dl.acm.org/doi/abs/10.1007/978-3-031-70381-2_18)
