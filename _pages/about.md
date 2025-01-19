@@ -22,7 +22,6 @@ redirect_from:
 
 ### News!
 
-%- <sub>Our paper "CHIFRAUD: A Long-term Web Text Dataset for Chinese Fraud Detection" obtained the Best Paper Award for Social Impact at COLING 2025! Big Congratulations to Min Tang!
 - <sub>Our paper "GTree: GPU-Friendly Privacy-preserving Decision Tree Training and Inference" has been accepted by TrustCom 2024 as a full research paper (acceptance rate 19.82%). Congratulations to Qifan!
 - <sub>Our paper "Sequential Recommendation by Reprogramming Pretrained Transformer" has been accepted by IPM. Congratulations to Min Tang!
 - <sub>Our paper "Searchable Encryption for Conjunctive Queries with Extended Forward and Backward Privacy" has been accepted by PoPETs/PETs24! 
