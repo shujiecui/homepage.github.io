@@ -25,7 +25,7 @@ redirect_from:
 - <sub>Our paper "CHIFRAUD: A Long-term Web Text Dataset for Chinese Fraud Detection" has been accepted by COLING‘2025. Congratulations to Min Tang again!
 - <sub>Our paper "GTree: GPU-Friendly Privacy-preserving Decision Tree Training and Inference" has been accepted by TrustCom 2024 as a full research paper (acceptance rate 19.82%). Congratulations to Qifan!
 - <sub>Our paper "Sequential Recommendation by Reprogramming Pretrained Transformer" has been accepted by IPM. Congratulations to Min Tang!
-- <sub>Our paper "Searchable Encryption for Conjunctive Queries with Extended Forward and Backward Privacy" has been accepted by PoPETs/PETs24! 
+- <sub>Our paper "Searchable Encryption for Conjunctive Queries with Extended Forward and Backward Privacy" has been accepted by PoPETs/PETs25! 
 
 ### PhD Students
 - <sub>Xuan Chen (2024-), Monash University
